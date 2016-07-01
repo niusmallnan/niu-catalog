@@ -1,0 +1,5 @@
+name: YanCloud Big Data
+description: |
+  (Experimental - Requires 2+ hosts) YanCloud
+version: yancloud-dev
+category: Big Data
